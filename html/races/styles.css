@@ -1,0 +1,10 @@
+.raceselect{
+  display: flex;
+  justify-content: center ;
+}
+.links{
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 20%;
+
+}

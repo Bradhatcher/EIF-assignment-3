@@ -1,0 +1,33 @@
+.race {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.subrace{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.level {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.class{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.hr{
+    background-color:black;
+    height: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
